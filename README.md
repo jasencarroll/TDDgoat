@@ -42,3 +42,6 @@ Oh yes, we will learn a lot this time. Actually the author had us install Django
 Checking my path of django-admin using `where` and also what `--version` was pulled down it looks like somehow I grabbed >4. when the author's requirements were <1.12. Looking up [Django's documentation on release cycles](https://www.djangoproject.com/download/) it looks like the oldest thing still supported is 3.2.18 so we'll use that. Quickly referencing [Selenium versions](https://rubygems.org/gems/selenium-webdriver/versions) (note: that was for ruby releases but shouldn't matter too much) it looks like 4.0.0 came out around the same time as the Django release we're using so let's see if that leads to success. While we're at it there is no reason to play with Python 3.9 and 3.10. The oldest version still supported is 3.7 and you can use your favorite way of obtaining that. I will say the Microsoft Store seems to work well, though the search query never pulls the right version you're asking for - as if they're promoting 3.10...
 
 ![LIFT OFF!](https://github.com/jasencarroll/TDDgoat/blob/main/images/Screenshot%202023-03-25%20071444.png)
+
+Now that we have the development server running let's figure out what's up with the `functional_tests.py`.
+
