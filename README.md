@@ -37,4 +37,4 @@ Now that we have a failing test, we can get started building out our application
 
 [`django.conf.urls.url()` was deprecated in Django 3.0, and is removed in Django 4.0+.](https://stackoverflow.com/questions/70319606/importerror-cannot-import-name-url-from-django-conf-urls-after-upgrading-to)
 
-Oh yes, we will learn a lot this time.
+Oh yes, we will learn a lot this time. Actually the author had us install Django < 4 so it was me being willy nilly and typing pip install django that got things to start but giving me a new error. I need to uninstall Django from my system now. 
