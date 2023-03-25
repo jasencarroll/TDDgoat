@@ -824,3 +824,15 @@ JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error:
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1679755793414	geckodriver	INFO	Listening on 127.0.0.1:55130
+1679755796440	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/Firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasen\\AppData\\Local\\Temp\\rust_mozprofileX9tJST"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679755798301	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679755798304	Marionette	INFO	Listening on port 55142
+Read port: 55142
+Read port: 55142
+1679755799730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasen\\AppData\\Local\\Temp\\rust_mozprofileX9tJST\\search.json.mozlz4", (void 0)))
+1679755805068	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.

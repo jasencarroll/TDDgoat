@@ -45,3 +45,4 @@ Checking my path of django-admin using `where` and also what `--version` was pul
 
 Now that we have the development server running let's figure out what's up with the `functional_tests.py`.
 
+I'm having a hard time getting Selenium to connect. From versions 3.2 through 4.8.
