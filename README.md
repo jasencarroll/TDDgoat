@@ -1,6 +1,8 @@
 # TDDgoat
 
-[Test-Driven Development with Python](https://learning.oreilly.com/covers/urn:orm:book:9781491958698/400w/) has not been updated since 2017 though I've always regretted not finishing it entirely. The idea of writing tests to fail before writing passing criteria really resonates with me on so many levels. Simply from an applied scientist perspective, one shall hypthosize before testing to determine if their hypothesis was correct - that's more of like a business approach and comes down to luck. 
+![Test-Driven Development with Python](https://learning.oreilly.com/covers/urn:orm:book:9781491958698/400w.jpg) 
+
+**Test-Driven Development with Python** has not been updated since 2017 though I've always regretted not finishing it entirely. The idea of writing tests to fail before writing passing criteria really resonates with me on so many levels. Simply from an applied scientist perspective, one shall hypthosize before testing to determine if their hypothesis was correct - that's more of like a business approach and comes down to luck. 
 
 ## Installation
 
