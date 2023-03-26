@@ -43,10 +43,4 @@ Checking my path of django-admin using `where` and also what `--version` was pul
 
 ![LIFT OFF!](https://github.com/jasencarroll/TDDgoat/blob/main/images/Screenshot%202023-03-25%20071444.png)
 
-Now that we have the development server running let's figure out what's up with the `functional_tests.py`.
-
-I'm having a hard time getting Selenium to connect. From versions 3.2 through 4.8.
-
-It wasn't actually that Selenium was having a hard time connecting. First I troubleshoot with Chrome and when that didn't work I eventually just tried to get Selenium to connect to Google. It worked. Then I started undoing my code to go back to Firefox and get as close to the author's intent. Now I have to figure out what is wrong with the geckodriver or something. I tried chromedriver too and that didn't work. I turned off Microsoft Defender Firewall and nothing.
-
-Firefox will crash land at localhost. Chrome will pop up and dissapear. 
+Wow Django's landing page has really come a long way since the book was written. 
