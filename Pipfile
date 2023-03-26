@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 Django = "==3.2.18"
-selenium = "==3.9.0"
+selenium = "==4.8.2"
 
 [dev-packages]
 
