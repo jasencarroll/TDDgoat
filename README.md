@@ -43,4 +43,8 @@ Checking my path of django-admin using `where` and also what `--version` was pul
 
 ![LIFT OFF!](https://github.com/jasencarroll/TDDgoat/blob/main/images/Screenshot%202023-03-25%20071444.png)
 
-Wow Django's landing page has really come a long way since the book was written. 
+Wow Django's landing page has really come a long way since the book was written.
+
+See updated `functional_tests.py` for progress from this point forward. 
+
+Additionally, run `python manage.py startapp lists`
